@@ -20,3 +20,5 @@ const App = () => { //const is an ES6 piece of syntax //const is somewhat doing 
 
 ReactDOM.render(<App />, document.querySelector('.container')); //updated render statement //DOM used here as we're trying to render something to the DOM (DOM (Document Object Model))
 // we passed a reference to that container
+
+//sample line added
